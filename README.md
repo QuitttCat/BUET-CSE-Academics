@@ -37,15 +37,18 @@
 
 ## Level 2 Term 2
 
-* **[CSE-200-Technical-Writing-and-Presentation](https://github.com/QuitttCat/CSE-200-Technical-Writing-and-Presentation)** 
-* **[CSE-220-Signals-and-Linear-Systems](https://github.com/QuitttCat/CSE-220-Signals-and-Linear-Systems)** 
+* **[CSE-200-Technical-Writing-and-Presentation](https://github.com/QuitttCat/CSE-200-Technical-Writing-and-Presentation)**
 * **[CSE-214-Software-Engineering-Sessional](https://github.com/QuitttCat/CSE-214-Software-Engineering-Sessional)** 
+* **[CSE-220-Signals-and-Linear-Systems](https://github.com/QuitttCat/CSE-220-Signals-and-Linear-Systems)** 
+
 
 
 ---
 
 ## Level 3 Term 1
 
+* **[CSE-314-Operating-System-Sessional](https://github.com/QuitttCat/CSE-314-Operating-System-Sessional)**
+* **[CSE-318-Artificial-Intelligence-Sessional](https://github.com/QuitttCat/CSE-318-Artificial-Intelligence-Sessional)**
 
 
 ---
