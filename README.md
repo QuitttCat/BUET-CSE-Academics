@@ -22,12 +22,10 @@
 ---
 
 ## Level 1 Term 2
-
-
-
+* **[CSE-106-Data-Structures-and-Algorithms-I-Sessional](https://github.com/QuitttCat/CSE-106-Data-Structures-and-Algorithms-I-Sessional)**
 ---
-
 ## Level 2 Term 1
+* **[CSE-206-Digital-Logic-Design-Sessional](https://github.com/QuitttCat/CSE-206-Digital-Logic-Design-Sessional)**
 
 
 ---
