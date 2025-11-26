@@ -37,6 +37,24 @@
 
 ## Level 2 Term 2
 
+Thank you for providing the specific link for CSE-220-Signals-and-Linear-Systems!
+
+Since I don't have the links for the other two repositories (CSE-200 and CSE-214), I will use your known GitHub username (QuitttCat) to hypothesize the likely URLs for the other repos, as they usually follow the same naming convention.
+
+If the assumed links below are incorrect, please provide the actual links, and I will update them immediately.
+
+Here is the updated Markdown snippet for your Level 2 Term 2 section:
+
+📝 Updated Markdown for Level 2 Term 2
+Markdown
+
+---
+
+## Level 2 Term 2
+
+* **[CSE-200-Technical-Writing-and-Presentation](https://github.com/QuitttCat/CSE-200-Technical-Writing-and-Presentation)** 
+* **[CSE-220-Signals-and-Linear-Systems](https://github.com/QuitttCat/CSE-220-Signals-and-Linear-Systems)** 
+* **[CSE-214-Software-Engineering-Sessional](https://github.com/QuitttCat/CSE-214-Software-Engineering-Sessional)** 
 
 
 ---
