@@ -1,6 +1,5 @@
 # BUET-CSE-Academics
 
-# My Academic Documentation
 
 ## Table of Contents:
 
@@ -16,10 +15,8 @@
 ---
 
 ## Level 1 Term 1
+* **[CSE-102-Structured-Programming-Language-Sessional](https://github.com/QuitttCat/CSE-102-Structured-Programming-Language-Sessional)**
 
-
-
-### CSE 102 | Structured Programming Language Sessional - Project
 
 
 ---
