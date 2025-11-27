@@ -26,7 +26,8 @@
 ---
 ## Level 2 Term 1
 * **[CSE-206-Digital-Logic-Design-Sessional](https://github.com/QuitttCat/CSE-206-Digital-Logic-Design-Sessional)**
-* **[CSE-208-Data-Structures-and-Algorithms-II-Sessional](https://github.com/QuitttCat/CSE-208-Data-Structures-and-Algorithms-II-Sessional)** 
+* **[CSE-208-Data-Structures-and-Algorithms-II-Sessional](https://github.com/QuitttCat/CSE-208-Data-Structures-and-Algorithms-II-Sessional)**
+* **[CSE-216-Database-Sessional](https://github.com/QuitttCat/CSE-216-Database-Sessional)** 
 
 
 ---
