@@ -46,6 +46,7 @@
 
 * **[CSE-310-Compiler-Sessional](https://github.com/QuitttCat/CSE-310-Compiler-Sessional)**
 * **[CSE-314-Operating-System-Sessional](https://github.com/QuitttCat/CSE-314-Operating-System-Sessional)**
+* **[CSE-316-Microprocessors-Microcontrollers-and-Embedded-System](https://github.com/QuitttCat/CSE-316-Microprocessors-Microcontrollers-and-Embedded-System)**
 * **[CSE-318-Artificial-Intelligence-Sessional](https://github.com/QuitttCat/CSE-318-Artificial-Intelligence-Sessional)**
 
 ---
